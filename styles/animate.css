@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li {
+  margin: 0;
+}
+
+.container {
+  width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.header {
+  background-color: blueviolet;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.first-section {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.first-section-version-descr {
+  margin-bottom: 24px;
+}
